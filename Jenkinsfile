@@ -31,4 +31,5 @@ pipeline {
  sh 'mvn exec:java -Dexec.mainClass="com.example.app.App"'
  }
  }
+ }
 
